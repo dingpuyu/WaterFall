@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "742FEE5437ED3F1F1EEDFCC15909A659207CB67B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8A9BBC437E9F78CE3075CCFC612AD37DBB307047" : 0,
+    "742FEE5437ED3F1F1EEDFCC15909A659207CB67B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DBB18568-C8D3-4359-97D8-5623AA38B7FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8A9BBC437E9F78CE3075CCFC612AD37DBB307047" : "",
+    "742FEE5437ED3F1F1EEDFCC15909A659207CB67B" : "WaterFall\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UICollectionView瀑布流尝试",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UICollectionView瀑布流尝试.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dingpuyu\/WaterFall.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "742FEE5437ED3F1F1EEDFCC15909A659207CB67B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dingpuyu\/WaterFall.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A9BBC437E9F78CE3075CCFC612AD37DBB307047"
+    }
+  ]
+}
